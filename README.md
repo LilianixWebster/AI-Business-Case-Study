@@ -38,7 +38,7 @@ An AI business case study project including brainstorms, manual workflows, prese
 </ul>
 
 <p>
-  🎥 <a href="PASTE-BRAINSTORM-LOOM-LINK-HERE">Watch the brainstorm walkthrough</a>
+  🎥 <a href=https://www.loom.com/share/37fc63f32a0144208cdf883bf3da422a>Watch the brainstorm walkthrough</a>
 </p>
 
 <h3>2. AI Business Case Study Presentation</h3>
@@ -62,7 +62,7 @@ An AI business case study project including brainstorms, manual workflows, prese
 </ul>
 
 <p>
-  🎥 <a href="PASTE-PRESENTATION-LOOM-LINK-HERE">Watch the presentation walkthrough</a>
+  🎥 <a href=https://www.loom.com/share/e66898725ffe44df8d3cf6878a3a5747>Watch the presentation walkthrough</a>
 </p>
 
 <h2>🧠 Skills Demonstrated</h2>
