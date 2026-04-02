@@ -77,7 +77,7 @@ An AI business case study project including brainstorms, manual workflows, prese
   <li>People-centred solution design</li>
 </ul>
 
-<h2>📁 Suggested Files to Include</h2>
+<h2>📁 Suggested Files to Include</h2> ADD examples of notes
 
 <ul>
   <li>Brainstorm notes</li>
