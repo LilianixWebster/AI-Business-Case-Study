@@ -144,15 +144,6 @@ This project helped me build confidence in:
 
 ---
 
-## 🌼 Where This Could Grow Next
-
-- add more workflow visuals
-- include screenshots from planning and presentation stages
-- refine the documentation
-- continue developing practical AI and automation portfolio work
-
----
-
 ## 🤝 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/liliani-webster-165229233)
 - 📧 [lilianiwebster2.0@gmail.com](mailto:lilianiwebster2.0@gmail.com)
