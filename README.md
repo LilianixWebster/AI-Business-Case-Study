@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">Profile</a> •
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_MAIN_LOOM_LINK">Project Walkthrough</a>
+  <a href="https://github.com/LilianixWebster/LilianixWebster">Profile</a> •
+  <a href="https://www.linkedin.com/in/liliani-webster-165229233/">LinkedIn</a> •
+  <a href="mailto:lilianiwebster2.0@gmail.com">Email</a> •
+  <a href="https://www.loom.com/share/e66898725ffe44df8d3cf6878a3a5747">Presentation Walkthrough</a>
 </p>
 
 <p align="center">
@@ -76,8 +76,8 @@ This section captures the early stage of the project, where I explored the probl
 - Early AI-supported workflow ideas
 
 ### Links
-- [🗂️ View brainstorm timeline on Padlet](YOUR_PADLET_LINK)
-- [🎥 Watch brainstorm walkthrough](YOUR_BRAINSTORM_LOOM_LINK)
+- [🗂️ View brainstorm timeline on Padlet](https://padlet.com/lilianiwebster20/ai-business-case-study-brainstorms-x0peidym6yj6dmas)
+- [🎥 Watch brainstorm walkthrough](https://www.loom.com/share/37fc63f32a0144208cdf883bf3da422a)
 
 </details>
 
@@ -99,8 +99,8 @@ This section contains the formal business case presentation materials, where the
 - Presentation walkthrough
 
 ### Links
-- [🎥 Watch presentation walkthrough]()
-- [📑 View presentation materials](AI Business Case Study Powerpoint.pdf)
+- [🎥 Watch presentation walkthrough](https://www.loom.com/share/e66898725ffe44df8d3cf6878a3a5747)
+-[📑 View presentation materials](./files/ai-business-case-study-presentation.pdf)
 
 </details>
 
@@ -126,7 +126,7 @@ To make this repository even stronger as a portfolio project, I can include:
 
 ## 🌱 What This Project Reflects
 
-This project shows how I approach a challenge from beginning to end — starting with problem exploration, moving through workflow thinking, and then shaping the idea into a more structured business case.
+This project shows how I approach a challenge from beginning to end, by starting with problem exploration, moving through workflow thinking, and then shaping the idea into a more structured business case.
 
 It reflects both my practical interest in AI and my growing confidence in turning ideas into clear, more purposeful solutions.
 
