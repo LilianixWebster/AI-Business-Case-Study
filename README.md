@@ -19,7 +19,7 @@
 
 ---
 
-## 🌸 Where This Project Begins
+## 🌱 Where This Project Begins
 
 This repository captures my AI Business Case Study project from early brainstorming through to final presentation development.
 
