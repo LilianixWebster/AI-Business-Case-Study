@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LilianixWebster/LilianixWebster">Profile</a> |
+  <a href="https://github.com/LilianixWebster/LilianixWebster"> GitHub Profile</a> |
   <a href="https://www.linkedin.com/in/liliani-webster-165229233/">LinkedIn</a> |
   <a href="mailto:lilianiwebster2.0@gmail.com">Email</a> |
   <a href="https://www.loom.com/share/e66898725ffe44df8d3cf6878a3a5747"> AI Business Presentation </a>
