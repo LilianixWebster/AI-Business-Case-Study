@@ -100,7 +100,7 @@ This section contains the formal business case presentation materials, where the
 
 ### Links
 - [🎥 Watch presentation walkthrough]()
-- [📑 View presentation materials]()
+- [📑 View presentation materials](AI Business Case Study Powerpoint.pdf)
 
 </details>
 
