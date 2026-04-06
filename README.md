@@ -1,6 +1,6 @@
 ![Banner](./Banner.png)
 
-<h1 align="center"> AI Business Case Study</h1>
+<h1 align="center"> AI Business Case Study</h1> 
 
 <p align="center">
   Brainstorming, workflow thinking, presentation development, and practical AI solution design
