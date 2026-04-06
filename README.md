@@ -66,7 +66,7 @@ It reflects my growing ability to explore a real-world problem, break down workf
   <summary><b>🧠 Brainstorm, Timeline & Early Thinking</b></summary>
   <br>
 
-This section captures the early stage of the project — where I explored the problem, mapped out ideas, organised my thinking, and started shaping possible directions for the business case.
+This section captures the early stage of the project, where I explored the problem, mapped out ideas, organised my thinking, and started shaping possible directions for the business case.
 
 ### Includes
 - Brainstorm notes
@@ -99,8 +99,8 @@ This section contains the formal business case presentation materials, where the
 - Presentation walkthrough
 
 ### Links
-- [🎥 Watch presentation walkthrough](YOUR_PRESENTATION_LOOM_LINK)
-- [📑 View presentation materials](YOUR_PRESENTATION_FILE_OR_REPO_LINK)
+- [🎥 Watch presentation walkthrough]()
+- [📑 View presentation materials]()
 
 </details>
 
