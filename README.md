@@ -110,15 +110,15 @@ This section contains the formal business case presentation materials, where the
 
 To make this repository even stronger as a portfolio project, I can include:
 
-- brainstorm notes
-- manual workflow notes
-- whiteboard screenshots
-- Padlet timeline link
-- presentation slides
-- workflow screenshots
-- prototype screenshots
+- Brainstorm notes
+- Manual workflow notes
+- Whiteboard screenshots
+- Padlet timeline brainstorm
+- Presentation slides
+- Workflow screenshots
+- Prototype screenshots
 - Loom walkthrough links
-- reflection notes
+- Reflection notes
 
 </details>
 
@@ -156,5 +156,5 @@ This project helped me build confidence in:
 ## 🤝 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/liliani-webster-165229233)
 - 📧 [lilianiwebster2.0@gmail.com](mailto:lilianiwebster2.0@gmail.com)
-- 💻 [GitHub Profile](https://github.com/LilianixWebster)
+- 💻 [GitHub Profile](https://github.com/LilianixWebster/LilianixWebster)
 
