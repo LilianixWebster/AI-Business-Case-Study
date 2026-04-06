@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🌱 A project shaped by curiosity, workflow thinking, and practical problem-solving
+  🌱 A project shaped by curiosity, workflow thinking, and practical problem-solving 🌱
 </p>
 
 ---
