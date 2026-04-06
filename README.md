@@ -100,7 +100,7 @@ This section contains the formal business case presentation materials, where the
 
 ### Links
 - [🎥 Watch presentation walkthrough](https://www.loom.com/share/e66898725ffe44df8d3cf6878a3a5747)
--[📑 View presentation materials](./files/ai-business-case-study-presentation.pdf)
+- [📑 View presentation materials](./files/ai-business-case-study-presentation.pdf)
 
 </details>
 
