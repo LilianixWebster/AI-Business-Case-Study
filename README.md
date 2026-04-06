@@ -154,7 +154,7 @@ This project helped me build confidence in:
 ---
 
 ## 🤝 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/liliani-webster-165229233)
+- 📧 [lilianiwebster2.0@gmail.com](mailto:lilianiwebster2.0@gmail.com)
+- 💻 [GitHub Profile](https://github.com/LilianixWebster)
 
-- [LinkedIn](YOUR_LINKEDIN_LINK)
-- [Email](mailto:YOUR_EMAIL)
-- [Main GitHub Profile](https://github.com/YOUR_USERNAME)
